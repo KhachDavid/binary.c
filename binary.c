@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <math.h>
+#include <cs50.h>
+#include <stdlib.h>
+
 int twopower(int number_222);
 void binary(int bin);
 
