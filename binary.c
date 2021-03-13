@@ -54,5 +54,5 @@ long long int binary(int bin)
     }    
     
     free(temp1);
-    return final;
+    return final;    
 }
