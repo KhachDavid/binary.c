@@ -1,5 +1,5 @@
 # binary.c
-converts an ascii character to binary
+converts an ascii string to binary
 
 To Run the code
 ```
